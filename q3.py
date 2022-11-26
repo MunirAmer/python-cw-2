@@ -1,0 +1,10 @@
+num = input("Enter a number between 1 and 12: ")
+noun = input("Enter a plural noun: ")
+name = input("Enter a name: ")
+sentence = input("Enter a sentence: ")
+verb = input("Enter a verb: ")
+
+print(f"It was {num} o'clock when I heard a knock at the door.")
+print(f"I opened the door and there was a box full of {noun} with a note saying From Mr. {name}")
+print(f"Just as I closed the door I heard a scream {sentence}.")
+print(f"I froze in place and all I could do was {verb}.")
